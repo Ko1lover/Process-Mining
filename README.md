@@ -4,7 +4,7 @@ This entire project is based on the process mining of insights with regard to th
 For this project our main task was at first to predict the next event ('concept:name'), then we had to predict the time when the predicted next event will occur. Lastly we had to a bit improve previous solutions and combine them into the whole trace prediction (both time an events provided some amount of lags and other information)
 
 ## How to run the code
-In order to run all of the files in the repository please follow first 3 steps, the rest are descriptions of what you can do with the data:
+In order to run all of the files in the repository please follow first 3 steps, the rest are descriptions of what you can do with the data. Use the requirements.txt in order to install all the necessary libraries::
 1. Download the data from any of these links and use it in the preprocessing.ipynb file (for this project we used 2012 data, however 2017 and 2018 will work just fine as well):
     - BPI Challenge 2012: [can be found here](https://data.4tu.nl/articles/_/12689204/1)
     - BPI Challenge 2017: [can be found here](https://data.4tu.nl/articles/_/12696884/1)
